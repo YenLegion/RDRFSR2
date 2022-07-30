@@ -22,7 +22,7 @@
   AutoExposure=true
   HDR=false
   
-  I have sharpening set to true and 0.7 
+  Recommend playing around with the sharpness setting as well.
 
 
 ## Compilation
