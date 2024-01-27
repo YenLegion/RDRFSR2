@@ -1,4 +1,5 @@
-# No longer recommend this solution, look upstream for more recent changes
+# No longer recommend this solution
+# Look upstream for more recent changes
 
 # FidelityFx Super Resolution 2.0 for Red Dead Redemption 2
 
