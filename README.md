@@ -2,7 +2,7 @@
 
  This mod is a library for RDR2 which replaces Nvidia DLSS with AMD FidelityFX Super Resolution 2.0.
 
- This is intended for releases devoid of DRM.
+ This fork is intended for releases devoid of DRM.
  
  Tested on EMPRESS release version 1436.28.
 
