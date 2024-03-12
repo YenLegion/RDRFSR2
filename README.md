@@ -40,4 +40,4 @@
 * Like all mods for Rockstar games, please avoid using this online as I am unsure if you will get banned.
 
 ## Credits
-* Thanks to GitHub users PotatoOfDoom, RealIndica and InfecteDru. 
+* Thanks to GitHub users [PotatoOfDoom](https://github.com/PotatoOfDoom), [RealIndica](https://github.com/RealIndica), [InfecteDru](https://github.com/InfecteDru). 
