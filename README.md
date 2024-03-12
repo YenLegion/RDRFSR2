@@ -1,11 +1,11 @@
 # FidelityFx Super Resolution 2.0 for Red Dead Redemption 2
 
  This mod is a library for RDR2 which replaces Nvidia DLSS with AMD FidelityFX Super Resolution 2.0.
+
+ This is intended for releases devoid of DRM.
  
- This WILL work with cracked versions of RDR2.
- 
- An extended guide to help with any issues can be found on the Nexus mod description [here](https://www.nexusmods.com/reddeadredemption2/mods/1550)
- 
+ Tested on EMPRESS release version 1436.28.
+
  NOTE : Ultra-Quality option in-game DLSS setting is basically the AMD equivilent of DLAA and provides better-than-native image quality at the cost of performance
  
 ## Installation
@@ -18,9 +18,9 @@
 
   In the included file nvngx.ini you will find various parameters, mostly set to auto. I haven't spent much time tweaking this, but I've seen various posts suggesting a   few changes. 
 
-  [View] 
-  AutoExposure=true
-  HDR=false
+    [View] 
+    AutoExposure=true
+    HDR=false
   
   Recommend playing around with the sharpness setting as well.
 
